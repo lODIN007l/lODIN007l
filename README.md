@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wilsonlluilema007@gmail.com**
 
-- 📄 Know about my experiences [wilson-lluilema.vercel.app](wilson-lluilema.vercel.app)
+- 📄 Personal Portfolio [wilson-lluilema.vercel.app](wilson-lluilema.vercel.app)
 
 - ⚡ Fun fact **I believe about me I'm sociable**
 
