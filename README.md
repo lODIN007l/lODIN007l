@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [wilson-lluilema.vercel.app](wilson-lluilema.vercel.app)
 
-- 💬 Ask me about **React/Next/Flutter/NodeJS**
+- 💬 Ask me about **React/Next.JS/Angular/Flutter/NodeJS**
 
 - 📫 How to reach me **wilsonlluilema007@gmail.com**
 
